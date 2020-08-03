@@ -6,7 +6,7 @@ const MAX_PAGE_SIZE = 50;
 const cloudMessage = require('./cloudMessage.js');
 
 
-//send message and store it in database
+//send message and store it in database/
 exports.sendMessage = async function (data, io) {
 
     //get user from database
