@@ -30,5 +30,5 @@ Just run command:
 
 Contac me :\
 [**Telegram**](http://t.me/BehnamNasehii) \
-[**Instagram**](http://t.me/behnamnasehi) \
+[**Instagram**](http://instgram.com/behnamnasehi) \
 [**Gmail**](behnammnasehi@gmail.com) 
