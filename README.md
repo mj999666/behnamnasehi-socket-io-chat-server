@@ -1,14 +1,14 @@
-#Chat Application With Node.js & Socket.io\
+# Chat Application With Node.js & Socket.io\
 To develop a real chat application, we have to put in place a real-time system of sending/receiving data. It will be impossible to do it with a relational database and Ajax calls. Thank's to socket.io, it becomes easy.
 There are a few ways of building a tool for real-time communication. Two of the most popular approaches presuppose the use of HTTP Long Polling or WebSockets.
 
-###Technical stack
+### Technical stack
 1. Node.js
 2. Socket.io
 3. Express.js
 4. Mongoose.js
 
-###Library
+### Library
 1. bcrypt
 1. bcryptjs
 1. body-parser
@@ -24,7 +24,7 @@ There are a few ways of building a tool for real-time communication. Two of the 
 1. shortid
 1. socket.io
 
-##get started!
+## get started!
 Just run command:
 `npm install`
 
